@@ -4,3 +4,4 @@
 ## 2、[Color_space_conversion](https://github.com/Clayygou/python-opencv/tree/master/Color_space_conversion)
 ## 3、[Pixel_operations](https://github.com/Clayygou/python-opencv/tree/master/Pixel_operations)
 ## 4、[Contrast_and_brightness](https://github.com/Clayygou/python-opencv/tree/master/Contrast_and_brightness)
+## 5、[Slide](https://github.com/Clayygou/python-opencv/tree/master/Slide)
